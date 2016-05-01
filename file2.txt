@@ -1,2 +1,3 @@
 Hai file 2 -Updated in Master
-Master line2 
+Branch Line 
+New Line in Branch 1
