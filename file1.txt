@@ -1,3 +1,4 @@
-Hai. file 1 Editing First Line to check merge issue
+Hai. file 1- Updated Merged File
 Nilofar added new line
-Added Thrird line to check Merge isssue
+New Merged - New line to check merge issue
+Line 4 in master
